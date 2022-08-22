@@ -47,3 +47,6 @@
 <a href="https://stackoverflow.com/users/19078738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078738" height="30" width="40" /></a>
 <a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ktafakkori.github.io/feed.xml" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/ktafakkori" target="blank"><img src="https://img.shields.io/twitter/follow/ktafakkori?logo=twitter&style=for-the-badge" alt="ktafakkori" /></a> </p>
+
