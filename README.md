@@ -37,8 +37,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-
-
+<a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
 ## 🖇️ Connect with me
 
@@ -48,10 +47,3 @@
 <a href="https://stackoverflow.com/users/19078738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078738" height="30" width="40" /></a>
 <a href="/https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ktafakkori.github.io/feed.xml" height="30" width="40" /></a>
 </p>
-  
-## Project FELOOP
-
-<a target="_blank" href="https://ktafakkori.github.io/optimization-packages-in-python-list/"><img src="https://ktafakkori.github.io/optimization-packages-in-python-list/">
-
-<a target="_blank" href="https://ktafakkori.github.io/machine-learning-packages-in-python-list/"><img src="https://ktafakkori.github.io/machine-learning-packages-in-python-list/"> </a>
-  
