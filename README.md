@@ -45,5 +45,5 @@
 <a href="https://twitter.com/ktafakkori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ktafakkori" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/keivan-tafakkori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keivan-tafakkori" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19078738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078738" height="30" width="40" /></a>
-<a href="/https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ktafakkori.github.io/feed.xml" height="30" width="40" /></a>
+<a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ktafakkori.github.io/feed.xml" height="30" width="40" /></a>
 </p>
