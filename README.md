@@ -2,28 +2,38 @@
 [![MasterHead](graphic/profile-banner.png)](https://github.com/ktafakkori)
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/19078738/keivan-tafakkori">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19078738?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/ktafakkori?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ktafakkori?color=green&logo=github">
-  </a>
-  <a href="https://github.com/ktafakkori/">
+ <a href="https://github.com/ktafakkori/">
     <img src="https://komarev.com/ghpvc/?username=ktafakkori" alt="visitors" />
   </a>
+  <a href="https://twitter.com/ktafakkori" target="blank"><img src="https://img.shields.io/twitter/follow/ktafakkori?logo=twitter&style=flat" alt="ktafakkori" /></a>
+  <a href="https://www.youtube.com/channel/UCgln8g9GjMi_Sh6P0k2DkOQ" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCgln8g9GjMi_Sh6P0k2DkOQ?logo=youtube&logoColor=red&style=flat alt="ktafakkori" /></a>
+    <a href="https://github.com/ktafakkori?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ktafakkori?color=green&logo=github">
+  </a>
+  <a href="https://stackoverflow.com/users/19078738/keivan-tafakkori" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
+</a>
+
 </p>
 
-<p align="left"> <a href="https://twitter.com/ktafakkori" target="blank"><img src="https://img.shields.io/twitter/follow/ktafakkori?logo=twitter&style=for-the-badge" alt="ktafakkori" /></a> </p>
+
 
 <h1 align="center"> © Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
+
+---
 
 ## 📄 Current activities:
 
 - **PhD Dissertation**
 
+---
+
 ## 📈 Overall stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
+
+---
 
 ## 🧭 Skills:
 
@@ -48,20 +58,30 @@
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> 
 </p>
 
+---
+
 ## 🔥 Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
+---
+
 ## 💻 Usage of programming languages:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
+
+---
 
 ## 🏆 Trophies:
 
 [![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
 
+---
+
 ## 📊 Contribution graph:
 
 [![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode&hide_border=true)](https://github.com/ktafakkori)
+
+---
 
 ## 🎓 Recent Academic papers:
 
@@ -72,9 +92,15 @@
 - [Resilience toward supply disruptions: A stochastic inventory control model with partial backordering under the base stock policy](https://doi.org/10.1016/j.jretconser.2020.102291)
 - [Sustainable generalized refueling station location problem under uncertainty](https://doi.org/10.1016/j.scs.2020.102497)
 
+➡️ [more papers...](https://scholar.google.com/citations?hl=en&user=eoCLWfYAAAAJ&view_op=list_works&sortby=pubdate)
+
+---
+
 ## ⭐ Recommended blog posts:
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
+
+---
 
 ## :writing_hand: Recent blog posts shared on FELOOP:
 
@@ -84,6 +110,10 @@
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
 - [Optimization by PYOMO in Python: A complete working example](https://ktafakkori.github.io/optimization-with-pyomo-cwe/)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more from FELOOP...](https://ktafakkori.github.io/)
+
+---
 
 ## :writing_hand: Recent blog posts shared on Supply Chain Data Analytics (SCDA):
 
@@ -103,11 +133,17 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more from SCDA...](https://www.supplychaindataanalytics.com/)
+
+---
+
 ## ⚡Support:
 
 - BTC crypto: `bc1q37audm2jd75j3rmralxhejtd44yz5az4e2nf4e`
 - ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
 - DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
+
+---
 
 ## 🖇️ Connect with me:
 
@@ -119,3 +155,5 @@
 <a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="graphic/social/rss.svg" height="30" width="40" /></a>
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
+
+---
