@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/ktafakkori" target="blank"><img src="https://img.shields.io/twitter/follow/ktafakkori?logo=twitter&style=for-the-badge" alt="ktafakkori" /></a> </p>
 
-<h1 align="center">Official GitHub Profile of Keivan Tafakkori</h1>
+<h1 align="center"> Ⓒ Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
 
 ## 📄 Current activities:
