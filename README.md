@@ -112,8 +112,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more from FELOOP...](https://ktafakkori.github.io/)
 
-
-
 ## :writing_hand: Recent blog posts shared on Supply Chain Data Analytics (SCDA):
 
 <!-- BLOG-POST-LIST:START -->
@@ -136,7 +134,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ## ✍️ Random quotes for developers:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide-border=true)
-
 
 ## ⚡Support:
 
