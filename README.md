@@ -26,12 +26,13 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 - **PhD Dissertation**
 
-
-
 ## 📈 Overall stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
 
-
+## 💳 Summary card:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktafakkori&theme=tokyonight&hide-border=true"/>
+</p>
 
 ## 🧭 Skills:
 
@@ -133,15 +134,17 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more from SCDA...](https://www.supplychaindataanalytics.com/)
 
+## ✍️ Random quotes for developers:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide-border=true)
 
 
 ## ⚡Support:
 
+You can simply support my works by starring repositories, or considering donations:
+
 - BTC crypto: `bc1q37audm2jd75j3rmralxhejtd44yz5az4e2nf4e`
 - ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
 - DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
-
-
 
 ## 🖇️ Connect with me:
 
@@ -153,5 +156,4 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="graphic/social/rss.svg" height="30" width="40" /></a>
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
-
 
