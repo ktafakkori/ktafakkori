@@ -15,21 +15,21 @@
 
 <p align="left"> <a href="https://twitter.com/ktafakkori" target="blank"><img src="https://img.shields.io/twitter/follow/ktafakkori?logo=twitter&style=for-the-badge" alt="ktafakkori" /></a> </p>
 
-<h1 align="center"> Ⓒ Official GitHub Profile of Keivan Tafakkori</h1>
+<h1 align="center"> © Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
 
 ## 📄 Current activities:
 
 - **PhD Dissertation**
 
-## 📈 Overall Stats:
+## 📈 Overall stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
 
 ## 🔥 Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
-## 💻 Usage of Programming Languages:
+## 💻 Usage of programming languages:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
 ## 🏆 Trophies:
@@ -70,17 +70,44 @@
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
 
-## ⭐ Recommended articles:
+## 🎓 Recent Academic papers:
+
+- [Sustainable negotiation-based nesting and scheduling in additive manufacturing systems: A case study and multi-objective meta-heuristic algorithms](https://doi.org/10.1016/j.engappai.2022.104836)
+- [The influence of manufacturing contexts on additive manufacturing-enabled competitive capabilities](https://doi.org/10.1108/JMTM-07-2021-0241)
+- [A capacity planning approach for sustainable-resilient supply chain network design under uncertainty: A case study of vaccine supply chain](https://doi.org/10.1016/j.cie.2021.107406)
+- [Designing an applied approach to support supplier development decisions in buyer-supplier relationship management](https://jimp.sbu.ac.ir/article_101576_ea2f35451fa32f62e17982e23f84e734.pdf?lang=en)
+- [Resilience toward supply disruptions: A stochastic inventory control model with partial backordering under the base stock policy](https://doi.org/10.1016/j.jretconser.2020.102291)
+- [Sustainable generalized refueling station location problem under uncertainty](https://doi.org/10.1016/j.scs.2020.102497)
+
+## ⭐ Recommended blog posts:
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
 
-## :writing_hand: Recent articles shared on FELOOP:
+## :writing_hand: Recent blog posts shared on FELOOP:
 
 <!-- BLOG-POST-LIST:START -->
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [Benders decomposition algorithm: Why is it important?](https://ktafakkori.github.io/why-benders-decomposition-is-important/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
 - [Optimization by PYOMO in Python: A complete working example](https://ktafakkori.github.io/optimization-with-pyomo-cwe/)
+<!-- BLOG-POST-LIST:END -->
+
+## :writing_hand: Recent blog posts shared on Supply Chain Data Analytics (SCDA):
+
+<!-- BLOG-POST-LIST:START -->
+- [Heuristic optimization in Python](https://www.supplychaindataanalytics.com/artificially-intelligent-algorithms-for-optimization-in-python/)
+- [Support vector machine with Gekko in Python](https://www.supplychaindataanalytics.com/creating-a-support-vector-machine-using-gekko-in-python/)
+- [Pyomo for quadratic assignment problem](https://www.supplychaindataanalytics.com/quadratic-assignment-problem-with-pyomo-in-python/)
+- [Flow shop scheduling with PuLP in Python](https://www.supplychaindataanalytics.com/flow-shop-scheduling-with-pulp-in-python/)
+- [Gekko for linear demand pricing](https://www.supplychaindataanalytics.com/pricing-with-linear-demand-function-using-gekko-in-python/)
+- [Single machine scheduling with PuLP](https://www.supplychaindataanalytics.com/single-machine-scheduling-with-pulp-in-python/)
+- [Using solvers for optimization in Python](https://www.supplychaindataanalytics.com/using-solvers-for-optimization-in-python/)
+- [Static facilities in supply chains](https://www.supplychaindataanalytics.com/static-facilities-in-supply-chains/)
+- [Optimization and modeling in Python](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/)
+- [Epsilon constraint optimization in Python](https://www.supplychaindataanalytics.com/augmented-epsilon-constraint-method-multi-goal-optimization-with-pulp-in-python/)
+- [Shallow and deep supervised learning model](https://www.supplychaindataanalytics.com/optimization-for-machine-learning-shallow-and-deep-supervised-learning-models/)
+- [Robust optimization and deep uncertainty](https://www.supplychaindataanalytics.com/robust_optimization_under_uncertainty/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡Support:
