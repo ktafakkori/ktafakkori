@@ -38,7 +38,7 @@
 
 ## 📊 Contribution graph:
 
-[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode)](https://github.com/ktafakkori)
+[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode&hide_border=true)](https://github.com/ktafakkori)
 
 ## 🧭 Skills:
 
