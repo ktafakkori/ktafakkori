@@ -51,6 +51,11 @@
 ## 💻 Usage of programming languages:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
+## 👨‍💻 Coding Experience
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🏆 Trophies:
 
 [![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
