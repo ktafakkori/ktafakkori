@@ -28,8 +28,12 @@
 ## 🧭 Skills:
 
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </a> 
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="graphic/software/anaconda.png" alt="anaconda" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="graphic/software/vscode.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="graphic/software/latex.png" alt="latex" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-ca/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="graphic/software/office.png" alt="office" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="graphic/programming-language/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.gams.com" target="_blank" rel="noreferrer"> <img src="graphic/software/gams.jfif" alt="gams" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
