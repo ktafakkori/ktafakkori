@@ -71,3 +71,9 @@
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
 
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
