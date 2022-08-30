@@ -25,21 +25,6 @@
 ## 📈 Overall stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
 
-## 🔥 Streaks:
-
-[![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
-
-## 💻 Usage of programming languages:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
-
-## 🏆 Trophies:
-
-[![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
-
-## 📊 Contribution graph:
-
-[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode&hide_border=true)](https://github.com/ktafakkori)
-
 ## 🧭 Skills:
 
 <p align="left"> 
@@ -59,16 +44,20 @@
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> 
 </p>
 
-## 🖇️ Connect with me:
+## 🔥 Streaks:
 
-<p align="left">
-<a href="https://linkedin.com/in/keivan-tafakkori" target="blank"><img align="center" src="graphic/social/linked-in-alt.svg" alt="keivan-tafakkori" height="30" width="40" /></a>
-<a href="https://twitter.com/ktafakkori" target="blank"><img align="center" src="graphic/social/twitter-alt.svg" alt="ktafakkori" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCgln8g9GjMi_Sh6P0k2DkOQ" target="blank"><img align="center" src="graphic/social/youtube.svg" alt="ktafakkori" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19078738" target="blank"><img align="center" src="graphic/social/stack-overflow.svg" alt="19078738" height="30" width="40" /></a>
-<a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="graphic/social/rss.svg" height="30" width="40" /></a>
-<a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
-</p>
+[![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
+
+## 💻 Usage of programming languages:
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
+
+## 🏆 Trophies:
+
+[![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
+
+## 📊 Contribution graph:
+
+[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode&hide_border=true)](https://github.com/ktafakkori)
 
 ## 🎓 Recent Academic papers:
 
@@ -116,3 +105,13 @@
 - ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
 - DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
 
+## 🖇️ Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/keivan-tafakkori" target="blank"><img align="center" src="graphic/social/linked-in-alt.svg" alt="keivan-tafakkori" height="30" width="40" /></a>
+<a href="https://twitter.com/ktafakkori" target="blank"><img align="center" src="graphic/social/twitter-alt.svg" alt="ktafakkori" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCgln8g9GjMi_Sh6P0k2DkOQ" target="blank"><img align="center" src="graphic/social/youtube.svg" alt="ktafakkori" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19078738" target="blank"><img align="center" src="graphic/social/stack-overflow.svg" alt="19078738" height="30" width="40" /></a>
+<a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="graphic/social/rss.svg" height="30" width="40" /></a>
+<a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
+</p>
