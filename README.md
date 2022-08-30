@@ -18,22 +18,20 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 </p>
 
 
-
 <h1 align="center"> © Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
 
----
 
 ## 📄 Current activities:
 
 - **PhD Dissertation**
 
----
+
 
 ## 📈 Overall stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
 
----
+
 
 ## 🧭 Skills:
 
@@ -58,30 +56,30 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> 
 </p>
 
----
+
 
 ## 🔥 Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
----
+
 
 ## 💻 Usage of programming languages:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
----
+
 
 ## 🏆 Trophies:
 
 [![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
 
----
+
 
 ## 📊 Contribution graph:
 
 [![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode&hide_border=true)](https://github.com/ktafakkori)
 
----
+
 
 ## 🎓 Recent Academic papers:
 
@@ -94,13 +92,13 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more papers...](https://scholar.google.com/citations?hl=en&user=eoCLWfYAAAAJ&view_op=list_works&sortby=pubdate)
 
----
+
 
 ## ⭐ Recommended blog posts:
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
 
----
+
 
 ## :writing_hand: Recent blog posts shared on FELOOP:
 
@@ -113,7 +111,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more from FELOOP...](https://ktafakkori.github.io/)
 
----
+
 
 ## :writing_hand: Recent blog posts shared on Supply Chain Data Analytics (SCDA):
 
@@ -135,7 +133,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more from SCDA...](https://www.supplychaindataanalytics.com/)
 
----
+
 
 ## ⚡Support:
 
@@ -143,7 +141,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 - ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
 - DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
 
----
+
 
 ## 🖇️ Connect with me:
 
@@ -156,4 +154,4 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
 
----
+
