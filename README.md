@@ -15,18 +15,17 @@
 
 <p align="left"> <a href="https://twitter.com/ktafakkori" target="blank"><img src="https://img.shields.io/twitter/follow/ktafakkori?logo=twitter&style=for-the-badge" alt="ktafakkori" /></a> </p>
 
-
 <h1 align="center">Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
 
-## 📄 Current Projects:
+## 📄 Current activities:
 
 - **PhD Dissertation**
 
 ## 📈 Overall Stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
 
-## ⬆️ Streaks:
+## 🔥 Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
@@ -37,11 +36,11 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
 
-## 📊 Contribution Graph:
+## 📊 Contribution graph:
 
 [![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode)](https://github.com/ktafakkori)
 
-## ✍️ Skills:
+## 🧭 Skills:
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </a> 
@@ -60,7 +59,7 @@
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> 
 </p>
 
-## 🖇️ Connect wit me:
+## 🖇️ Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/keivan-tafakkori" target="blank"><img align="center" src="graphic/social/linked-in-alt.svg" alt="keivan-tafakkori" height="30" width="40" /></a>
@@ -71,7 +70,11 @@
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
 
-### :writing_hand: Blog Posts :
+## ⭐ Recommended articles:
+- [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
+- [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
+
+## :writing_hand: Recent articles shared on FELOOP:
 
 <!-- BLOG-POST-LIST:START -->
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
@@ -80,4 +83,9 @@
 - [Optimization by PYOMO in Python: A complete working example](https://ktafakkori.github.io/optimization-with-pyomo-cwe/)
 <!-- BLOG-POST-LIST:END -->
 
+## ⚡Support:
+
+- BTC crypto: `bc1q37audm2jd75j3rmralxhejtd44yz5az4e2nf4e`
+- ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
+- DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
 
