@@ -74,6 +74,10 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
+- [Benders decomposition algorithm: Why is it important?](https://ktafakkori.github.io/why-benders-decomposition-is-important/)
+- [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
+- [Optimization by PYOMO in Python: A complete working example](https://ktafakkori.github.io/optimization-with-pyomo-cwe/)
 <!-- BLOG-POST-LIST:END -->
 
 
