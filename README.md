@@ -26,10 +26,12 @@
 ## 📈 Overall Stats:
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
 
-## 💻 Usage of Programming Languages:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
+## ⬆️ Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
+
+## 💻 Usage of Programming Languages:
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
 ## 🏆 Trophies:
 
