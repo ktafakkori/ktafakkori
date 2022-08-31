@@ -21,4 +21,4 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://ktafakkori.github.io/feed.xml"
-                template: "$newline - $emojiKey(⚡,🦾,📢,🔥,🤖) [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=github-readme)"
+                template: "$newline - $emojiKey(🦾,📢,🔥,🤖) [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=github-readme)"
