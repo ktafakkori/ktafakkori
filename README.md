@@ -1,4 +1,3 @@
-
 [![MasterHead](graphic/profile-banner.png)](https://github.com/ktafakkori)
 
 <p align="left">
@@ -17,19 +16,19 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 </p>
 
-
 <h1 align="center"> © Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
-
 
 ## 📄 Current activities:
 
 - **PhD Dissertation**
 
 ## 📈 Overall stats:
+
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/ktafakkori)
 
 ## 💳 Summary card:
+
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktafakkori&theme=tokyonight&hide-border=true"/>
 </p>
@@ -57,18 +56,13 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> 
 </p>
 
-
-
 ## 🔥 Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
-
-
 ## 💻 Usage of programming languages:
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
-
-
 
 ## 🏆 Trophies:
 
@@ -76,11 +70,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ## 📊 Contribution graph:
 
-[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=xcode&hide_border=true)](https://github.com/ktafakkori)
+[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=react-dark&hide_border=true)](https://github.com/ktafakkori)
 
-
-
-## 🎓 Recent Academic papers:
+## 🎓 Recent academic papers:
 
 - [Sustainable negotiation-based nesting and scheduling in additive manufacturing systems: A case study and multi-objective meta-heuristic algorithms](https://doi.org/10.1016/j.engappai.2022.104836)
 - [The influence of manufacturing contexts on additive manufacturing-enabled competitive capabilities](https://doi.org/10.1108/JMTM-07-2021-0241)
@@ -91,17 +83,15 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more papers...](https://scholar.google.com/citations?hl=en&user=eoCLWfYAAAAJ&view_op=list_works&sortby=pubdate)
 
-
-
 ## ⭐ Recommended blog posts:
+
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
-
-
 
 ## :writing_hand: Recent blog posts shared on FELOOP:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [Benders decomposition algorithm: Why is it important?](https://ktafakkori.github.io/why-benders-decomposition-is-important/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
@@ -113,6 +103,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 ## :writing_hand: Recent blog posts shared on Supply Chain Data Analytics (SCDA):
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Heuristic optimization in Python](https://www.supplychaindataanalytics.com/artificially-intelligent-algorithms-for-optimization-in-python/)
 - [Support vector machine with Gekko in Python](https://www.supplychaindataanalytics.com/creating-a-support-vector-machine-using-gekko-in-python/)
 - [Pyomo for quadratic assignment problem](https://www.supplychaindataanalytics.com/quadratic-assignment-problem-with-pyomo-in-python/)
@@ -131,6 +122,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 ➡️ [more from SCDA...](https://www.supplychaindataanalytics.com/)
 
 ## ✍️ Random quotes for developers:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide-border=true)
 
 ## ⚡Support:
@@ -151,4 +143,3 @@ You can simply support my works by starring repositories, or considering donatio
 <a href="https://ktafakkori.github.io/feed.xml" target="blank"><img align="center" src="graphic/social/rss.svg" height="30" width="40" /></a>
 <a href="https://github.com/ktafakkori" target="blank"><img align="center" src="graphic/social/github.svg" alt="ktafakkori" height="30" width="40" /></a>
 </p>
-
