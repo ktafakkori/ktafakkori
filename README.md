@@ -121,7 +121,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more from SCDA...](https://www.supplychaindataanalytics.com/)
 
-## ✍️ Random quotes for developers:
+## ✍️ Developers quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide-border=true)
 
@@ -133,7 +133,7 @@ You can simply support my works by starring repositories, or considering donatio
 - ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
 - DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
 
-## 🖇️ Connect with me:
+## 📪 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/keivan-tafakkori" target="blank"><img align="center" src="graphic/social/linked-in-alt.svg" alt="keivan-tafakkori" height="30" width="40" /></a>
