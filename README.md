@@ -72,9 +72,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ## 🏆 Trophies:
 
-[![](https://github-profile-trophy.vercel.app/?username=ktafakkori&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories)](https://github.com/ktafakkori)
-
-
+[![](https://github-profile-trophy.vercel.app/?username=ktafakkori&theme=darkhub&margin-w=15&margin-h=15&column=8)](https://github.com/ktafakkori)
 
 ## 📊 Contribution graph:
 
