@@ -1,17 +1,13 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Details: https://crontab.guru/#5_4_*_*_sun
     - cron: '5 4 * * sun'
-    # Enable manual trigger
     workflow_dispatch:
         input:
             tags:
                 description: 'Tags to label this manual run (optional)'
                 default: 'Manual run'
-
 jobs:
-  # Details: https://github.com/gautamkrishnar/blog-post-workflow
   update-readme-with-blog:
     name: To update this README with latest blog posts
     runs-on: ubuntu-latest
