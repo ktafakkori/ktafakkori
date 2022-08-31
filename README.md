@@ -27,7 +27,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 - **PhD Dissertation**
 
 ## 📈 Overall stats:
-[![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide=prs,issues&hide_border=true)](https://github.com/ktafakkori)
+[![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/ktafakkori)
 
 ## 💳 Summary card:
 <p align="left">

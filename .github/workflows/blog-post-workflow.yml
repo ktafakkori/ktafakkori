@@ -1,13 +1,19 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 15 10 ? * 6L'
-  workflow_dispatch:
+    # Details: https://crontab.guru/#5_4_*_*_sun
+    - cron: '5 4 * * sun'
+    # Enable manual trigger
+    workflow_dispatch:
+        input:
+            tags:
+                description: 'Tags to label this manual run (optional)'
+                default: 'Manual run'
 
 jobs:
+  # Details: https://github.com/gautamkrishnar/blog-post-workflow
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: To update this README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,3 +21,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://ktafakkori.github.io/feed.xml"
+          template: "$newline - $emojiKey(🤖,⚡,🔥,🦾,📢) [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=github-readme)"
