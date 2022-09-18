@@ -91,10 +91,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 ## :writing_hand: Recent blog posts shared on FELOOP:
 
 <!-- BLOG-POST-LIST:START -->
- - 🦾 [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 📢 [Benders decomposition algorithm: Why is it important?](https://ktafakkori.github.io/why-benders-decomposition-is-important/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🔥 [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🤖 [Optimization by PYOMO in Python: A complete working example](https://ktafakkori.github.io/optimization-with-pyomo-cwe/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
+ - 🦾 [List of academic research databases: Update 2022](https://ktafakkori.github.io/academic-databases-list/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 📢 [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🔥 [Benders decomposition algorithm: Why is it important?](https://ktafakkori.github.io/why-benders-decomposition-is-important/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🤖 [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more from FELOOP...](https://ktafakkori.github.io/)
 
