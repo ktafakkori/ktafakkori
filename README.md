@@ -68,10 +68,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 [![](https://github-profile-trophy.vercel.app/?username=ktafakkori&theme=darkhub&margin-w=15&margin-h=15&column=8)](https://github.com/ktafakkori)
 
-## Contribution graph:
-
-[![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=react-dark&hide_border=true)](https://github.com/ktafakkori)
-
 ## Recent academic papers:
 
 - [Sustainable negotiation-based nesting and scheduling in additive manufacturing systems: A case study and multi-objective meta-heuristic algorithms](https://doi.org/10.1016/j.engappai.2022.104836)
