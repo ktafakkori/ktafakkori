@@ -123,14 +123,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide-border=true)
 
-## ⚡Support:
-
-You can simply support my works by starring repositories, or considering donations:
-
-- BTC crypto: `bc1q37audm2jd75j3rmralxhejtd44yz5az4e2nf4e`
-- ETH crypto: `0xFceE0143E668c83176b96A20e0c386C54Bc9A6b9`
-- DOGE crypto: `DSu19Ks5KEbFcqvj8QKAL6pCaoiCYAzpAU`
-
 ## 📪 Connect with me:
 
 <p align="left">
