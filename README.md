@@ -79,7 +79,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more papers...](https://scholar.google.com/citations?hl=en&user=eoCLWfYAAAAJ&view_op=list_works&sortby=pubdate)
 
-## ⭐ Recommended blog posts:
+## Recommended blog posts:
 
 - [List of machine learning packages in Python: Update 2022](https://ktafakkori.github.io/machine-learning-packages-in-python-list/)
 - [List of optimization packages in Python: Update 2022](https://ktafakkori.github.io/optimization-packages-in-python-list/)
