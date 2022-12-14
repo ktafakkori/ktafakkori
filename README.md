@@ -19,21 +19,21 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <h1 align="center"> © Official GitHub Profile of Keivan Tafakkori</h1>
 <h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
 
-## 📄 Current activities:
+## Current activities:
 
 - **PhD Dissertation**
 
-## 📈 Overall stats:
+## Overall stats:
 
 [![](https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=tokyonight&show-icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/ktafakkori)
 
-## 💳 Summary card:
+## Summary card:
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktafakkori&theme=tokyonight&hide-border=true"/>
 </p>
 
-## 🧭 Skills:
+## Skills:
 
 <p align="left"> 
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="graphic/software/anaconda.png" alt="anaconda" width="40" height="40"/> </a>
@@ -56,23 +56,23 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> 
 </p>
 
-## 🔥 Streaks:
+## Streaks:
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
-## 💻 Usage of programming languages:
+## Usage of programming languages:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/ktafakkori)
 
-## 🏆 Trophies:
+## Trophies:
 
 [![](https://github-profile-trophy.vercel.app/?username=ktafakkori&theme=darkhub&margin-w=15&margin-h=15&column=8)](https://github.com/ktafakkori)
 
-## 📊 Contribution graph:
+## Contribution graph:
 
 [![](https://activity-graph.herokuapp.com/graph?username=ktafakkori&&theme=react-dark&hide_border=true)](https://github.com/ktafakkori)
 
-## 🎓 Recent academic papers:
+## Recent academic papers:
 
 - [Sustainable negotiation-based nesting and scheduling in additive manufacturing systems: A case study and multi-objective meta-heuristic algorithms](https://doi.org/10.1016/j.engappai.2022.104836)
 - [The influence of manufacturing contexts on additive manufacturing-enabled competitive capabilities](https://doi.org/10.1108/JMTM-07-2021-0241)
@@ -119,11 +119,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 
 ➡️ [more from SCDA...](https://www.supplychaindataanalytics.com/)
 
-## ✍️ Developers quote:
+## Developers quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide-border=true)
 
-## 📪 Connect with me:
+## Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/keivan-tafakkori" target="blank"><img align="center" src="graphic/social/linked-in-alt.svg" alt="keivan-tafakkori" height="30" width="40" /></a>
