@@ -25,9 +25,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktafakkori&theme=gruvbox"/>
 </p>
    
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ktafakkori&theme=gruvbox&show-icons=true&hide_border=false&count_private=true&include_all_commits=true&hide=contribs"/>
-</p>
+</p> -->
    
 
    
@@ -35,9 +35,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ktafakkori&theme=gruvbox&hide_border=false"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktafakkori&layout=compact&langs_count=10&theme=gruvbox&hide_border=false"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ktafakkori&theme=gruvbox&margin-w=50&margin-h=55&column=6"/>
