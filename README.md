@@ -1,4 +1,4 @@
-[![MasterHead](graphic/profile-banner.png)](https://github.com/ktafakkori)
+[![MasterHead](graphic/profile-banner-new.png)](https://github.com/ktafakkori)
 
 <p align="left">
  <a href="https://github.com/ktafakkori/">
