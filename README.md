@@ -7,8 +7,7 @@ You may connect with me through the following terminals:
 
 [![X Follow](https://img.shields.io/twitter/follow/KTafakkori?style=flat-square&logo=X)](https://twitter.com/KTafakkori)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/keivan-tafakkori/) 
-[![Telegram Join](https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram)](https://t.me/feloop_channel) 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:feloop.crm@gmail.com)
+[![Telegram Join](https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram)](https://t.me/feloop_channel)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram)](https://www.instagram.com/feloop_page/)
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCgln8g9GjMi_Sh6P0k2DkOQ) 
 [![StackOverflow Ask](https://img.shields.io/badge/StackOverflow-Ask-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/19078738)
