@@ -1,5 +1,6 @@
 [![MasterHead](graphic/profile-banner-new.png)](https://github.com/ktafakkori)
 
+
 <p align="left">
  <a href="https://github.com/ktafakkori/">
     <img src="https://komarev.com/ghpvc/?username=ktafakkori" alt="visitors" />
@@ -15,12 +16,14 @@ src="https://stackoverflow-badge.vercel.app/?userID=19078738" />
 </a>
 
 </p>
-   <h1 align="center"> Keivan Tafakkori</h1>
 
-<h3 align="center"> Ph.D. Candidate | Industrial Engineering | University of Tehran</h3>
+<div style="border:2px solid #2f80ed; border-radius:15px; padding:20px; background-color:#f0faff;">
 
+## Keivan Tafakkori
+### PhD Student @ University of Tehran
+"Different theoretical/practical problems just need different ways of _explaining reality_, _representing reality_ or _learning from data observed or experienceable in reality_, for a specific system, industry or supply chain, to obtain feasible, logical, and optimal (or best possible) solutions, regions or policies. The way we algorithmize, model and solve these problems to be _scalable_ and _stable_, both in computation _time_ and _accuracy_, matters a lot."
 
-"Different theoretical/practical problems just need different ways of _explaining reality_, _representing reality_ or _learning from data observed or experienceable in reality_, for a specific system, industry or supply chain, to obtain feasible, logical, and optimal (or best possible) solutions, regions or policies. The way we algorithmize, model and solve these problems to be _scalable_ and _stable_, both in computation _time_ and _accuracy_, matters a lot." - _Keivan Tafakkori_
+</div>
 
 # Overview
    
