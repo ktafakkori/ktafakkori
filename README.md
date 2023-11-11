@@ -5,9 +5,9 @@ I believe that different theoretical/practical problems just need different ways
 
 You may connect with me through the following terminals:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/keivan-tafakkori/) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KTafakkori?style=flat-square&logo=X)](https://twitter.com/KTafakkori)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCgln8g9GjMi_Sh6P0k2DkOQ) 
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram)](https://t.me/feloop_channel) 
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Ask-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/19078738) 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=flat-square&logo=instagram)](https://www.instagram.com/feloop_page/)
+[![X Follow](https://img.shields.io/twitter/follow/KTafakkori?style=flat-square&logo=X)](https://twitter.com/KTafakkori)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/keivan-tafakkori/) 
+[![Telegram Join](https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram)](https://t.me/feloop_channel) 
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram)](https://www.instagram.com/feloop_page/)
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCgln8g9GjMi_Sh6P0k2DkOQ) 
+[![StackOverflow Ask](https://img.shields.io/badge/StackOverflow-Ask-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/19078738)
